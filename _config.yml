@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "tang"
+title                    : "Student Tang"
 title_separator          : "-"
 name                     : &name "Minghao Tang"
 description              : &description "A student studing CS"
