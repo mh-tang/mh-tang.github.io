@@ -12,8 +12,14 @@ I'm a fourth year undergraduate student from [College of Computer Science](https
 
 Education
 ------
-TODO
+- **Institute of Computing Technology, Chinese Academy of Sciences**
+  - M.S. in Computer Science
+  - Advisor: Prof. [Keping Bi](https://sites.google.com/site/irkepingbi/)
+- **Nankai University**
+  - B.E. in Computer Science, 2021 - 2025
 
 Hornors and Awards
 ------
-TODO
+- National Scholarship, Ministry of Education, China, 2024
+- National Encouragement Scholarship, Ministry of Education, China, 2023
+- National Scholarship, Ministry of Education, China, 2022
