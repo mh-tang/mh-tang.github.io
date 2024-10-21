@@ -14,7 +14,7 @@ Education
 ------
 - **Institute of Computing Technology, Chinese Academy of Sciences**
   - M.S. in Computer Science
-  - Advisor: Prof. [Keping Bi](https://sites.google.com/site/irkepingbi/)
+  - Advisor: Prof. [Keping Bi](https://kepingbi.github.io/)
 - **Nankai University**
   - B.E. in Computer Science, 2021 - 2025
 
